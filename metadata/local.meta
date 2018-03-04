@@ -1,0 +1,44 @@
+[props/ruby_on_rails_5_x]
+owner = admin
+version = 7.0.0
+modtime = 1520112236.283850000
+
+[eventtypes/completed_request]
+owner = admin
+version = 7.0.0
+modtime = 1520113863.380197000
+
+[tags/eventtype%3Dcompleted_request]
+owner = admin
+version = 7.0.0
+modtime = 1520113953.324675000
+
+[props/ruby_on_rails_5_x/EXTRACT-http_method]
+export = none
+owner = admin
+version = 7.0.0
+modtime = 1520114866.036939000
+
+[props/ruby_on_rails_5_x/EXTRACT-response_time]
+export = none
+owner = admin
+version = 7.0.0
+modtime = 1520114870.568828000
+
+[props/ruby_on_rails_5_x/EXTRACT-src]
+export = none
+owner = admin
+version = 7.0.0
+modtime = 1520114874.555369000
+
+[props/ruby_on_rails_5_x/EXTRACT-status]
+export = none
+owner = admin
+version = 7.0.0
+modtime = 1520114882.540749000
+
+[props/ruby_on_rails_5_x/EXTRACT-uri_query]
+export = none
+owner = admin
+version = 7.0.0
+modtime = 1520114887.916423000
