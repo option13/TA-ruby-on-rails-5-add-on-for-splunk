@@ -10,4 +10,9 @@ PREREQUISITES
 config.log_level for the rails app is set to debug.
 
 CIM COMPLIANCE
-This add-one's fields are named to be compatible with the CIM Web data model.
+This add-on's fields are named to be compatible with the CIM Web data model.
+
+SUPPORT
+Email support is available at splunkapps@option13.co.uk
+This is an open source project. A public repository is available at
+https://github.com/option13/TA-ruby-on-rails-5-add-on-for-splunk
